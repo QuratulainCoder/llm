@@ -3,8 +3,8 @@ nltk==3.8.1
 speechrecognition==3.10.0
 pyttsx3==2.90
 pyaudio==0.2.11
-qdrant-client==1.6.0
-ollama==0.1.7
+qdrant-client>=1.6.0
+ollama>=0.1.7
 llama-index>=0.10.0
 python-dotenv>=1.0.0
 flask>=2.0.0
